@@ -1,0 +1,49 @@
+
+*{
+  box-sizing: border-box;
+}
+
+.container{
+  width: 100%;
+  color: red;
+  background-color: blue;
+}
+
+body {
+  width: 300px;  
+  height: 30px;  
+  border: none;  
+  border-radius: 3px;  
+  padding-left: 8px; 
+  background: skyblue;
+  text-align: start;
+  color: red;
+}
+
+
+
+submit {
+  color: gray;  
+}
+
+form {
+  align-self: flex-start;
+  display: grid;
+  justify-items: center;
+  align-items: center;  
+}
+
+button {
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: red;
+  border: none;
+  border-radius: 15px;
+
+}
+
+
